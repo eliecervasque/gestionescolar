@@ -27,7 +27,7 @@
 	</head>
 	<body>
 		<div role="button" tabindex="0" class="logo img-thumbnail" data-toggle="tooltip" data-placement="left" title="Institucion Educativa Tecnica Agropecuara El Salado"></div>
-		<div class="row bg-primary navbar">
+		<div class="row bg-success navbar">
 			<div class="col">Mensaje</div>
 			<div class="col">de prueba</div>
 		</div>
