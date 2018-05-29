@@ -15,9 +15,9 @@
 				background-size: 70% 80%;
 				background-position: center;
 				position: absolute;
-				background-color: #fff;
+				background-color: #ff0;
 				top: 0;
-				right: 40px;
+				right: 100px;
 				width: 130px;
 				height: 130px;
 				box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
