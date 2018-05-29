@@ -30,6 +30,6 @@
 		<div class="row bg-success navbar">
 		</div>
 
-		Probando escritorios remotos
+		Escritorios remotos funcionan
 	</body>
 </html>
