@@ -31,5 +31,7 @@
 			<div class="col">Mensaje</div>
 			<div class="col">de prueba</div>
 		</div>
+
+		estoy en prueba
 	</body>
 </html>
