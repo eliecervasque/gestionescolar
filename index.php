@@ -21,15 +21,13 @@
 				width: 130px;
 				height: 130px;
 				box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-				z-index: 100;
+				z-index: 200;
 			}
 		</style>
 	</head>
 	<body>
 		<div role="button" tabindex="0" class="logo img-thumbnail" data-toggle="tooltip" data-placement="left" title="Institucion Educativa Tecnica Agropecuara El Salado"></div>
 		<div class="row bg-success navbar">
-			<div class="col">Mensaje</div>
-			<div class="col">de prueba</div>
 		</div>
 
 		estoy en prueba
